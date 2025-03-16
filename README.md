@@ -5,7 +5,7 @@ Path2AI is a set of documents to learn about AI.
 
 # Requirements
 
-1. install uv: ![uv](https://docs.astral.sh/uv/getting-started/installation/)
+1. install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 2. install requirements:
 ```bash
 uv add --dev ipykernel
